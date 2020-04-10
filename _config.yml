@@ -1,15 +1,14 @@
-# Hexo 配置文件
-# 需要修改的内容已经用中文标注出来了
+
 
 # Site
-title: 站点标题
+title: 沾灰君
 subtitle:
 description:
-author: 站点作者
+author: Huijun Zhan
 language: zh-Hans
 timezone:
 
-url: https://站点域名
+url: https://zhan.netlify.com
 root: /
 permalink: :title/
 permalink_defaults:
