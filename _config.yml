@@ -1,10 +1,10 @@
 
 
 # Site
-title: 沾灰君
-subtitle:
+title: 沾灰君.blog
+subtitle:Coffee · Technophile
 description:
-author: Huijun Zhan
+author: 沾灰君
 language: zh-Hans
 timezone:
 
@@ -68,7 +68,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: obsidian
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
